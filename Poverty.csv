@@ -85,7 +85,7 @@ DavaodelNorte,31,13,11
 DavaodelSur,19,12,10
 DavaoOriental,31,38,30
 DavaodeOro,27,25,24
-DavaoOccidentale/,NULL,41,43
+DavaoOccidentale,NULL,41,43
 RegionXII(SOCCSKSARGEN),38,28,28
 Cotabato,43,29,32
 Sarangani,53,42,41
@@ -98,7 +98,7 @@ AgusandelSur,48,38,41
 SurigaoDelNorte,37,34,28
 SurigaoDelSur,41,25,31
 DinagatIslands,44,33,33
-AutonomousRegioninMuslimMindanao/BangsamoroAutonomousRegioninMuslimMindanao(ARMM/BARMM),59,62,37
+AutonomousRegioninMuslimMindanaoBangsamoroAutonomousRegioninMuslimMindanao(ARMMBARMM),59,62,37
 Basilan,45,74,54
 LanaodelSur,77,71,11
 Maguindanao,54,49,38
